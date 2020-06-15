@@ -1,0 +1,5 @@
+env
+deployment
+*.md
+Makefile
+cloudbuild.yaml
